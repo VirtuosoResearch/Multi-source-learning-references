@@ -1,5 +1,4 @@
-
-## Multitask learning reference repositories
+## Multi-source learning references
 
 ### Surveys
 
