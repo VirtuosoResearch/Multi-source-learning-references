@@ -39,6 +39,7 @@ This is a reference paper list for multi-source learning.
 - Ruder et al. (2019). Latent multi-task architecture learning. In *AAAI*. 
 - Guo et al. (2020). Learning to branch for multi-task learning. In *ICML*. [paper](https://arxiv.org/abs/2006.01895)
 - Zhu, X., Qi, Y., Zhu, Y., Walters, R., & Platt, R. (2026). EquAct: An SE(3)-equivariant multi-task Transformer for 3D robotic manipulation. ICLR. [paper](https://openreview.net/attachment?id=d1wuA8oIH0&name=pdf)
+- Li, D., Zhang, Z., Duan, M., Dobriban, E., & Zhang, H. R. (2026). Efficiently learning branching networks for multitask algorithmic reasoning. KDD. [paper](https://arxiv.org/abs/2512.01113)
 
 **Hard-parameter sharing and soft-parameter sharing**
 
@@ -49,7 +50,7 @@ This is a reference paper list for multi-source learning.
 - Learning Multiple Tasks with Multilinear Relationship Networks. NIPS 2017. [paper](https://arxiv.org/abs/1506.02117)
 - Pilault, J., El Hattami, A., & Pal, C. (2021). Conditionally adaptive multi-task learning: Improving transfer learning in NLP using fewer parameters & less data. ICLR. [paper](https://arxiv.org/pdf/2009.09139)
 - Zhang, L., Liu, X., & Guan, H. (2022). AutoMTL: A programming framework for automating efficient multi-task learning. NeurIPS. [paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/dd3bd4e35cdd224ed2153a996f41077f-Paper-Conference.pdf)
-- Tang, A., Shen, L., Luo, Y., Zhan, Y., Hu, H., Du, B., Chen, Y., & Tao, D. (2024). Parameter-efficient multi-task model fusion with partial linearization. ICLR. [paper](https://arxiv.org/pdf/2310.04742)
+- Li, D., Zhang, Z., Wang, L., & Zhang, H. R. (2025). Efficient ensemble for fine-tuning language models on multiple datasets. ACL. [paper](https://arxiv.org/abs/2505.21930)
 
 
 
@@ -104,7 +105,12 @@ Task affinity and grouping
 - Fifty et al. (2021). Efficiently identifying task groupings for multi-task learning. *NeuIPS.* [Paper](https://proceedings.neurips.cc/paper/2021/hash/e77910ebb93b511588557806310f78f1-Abstract.html)
 - Cao, K., You, J., & Leskovec, J. (2022). Relational multi-task learning: Modeling relations between data and tasks. ICLR. [paper](https://arxiv.org/pdf/2303.07666)
 - Meng, F., Shao, W., Peng, Z., Jiang, C., Zhang, K., Qiao, Y., & Luo, P. (2023). Foundation model is efficient multimodal multitask model selector. NeurIPS. [paper](https://arxiv.org/pdf/2308.06262)
+- Li, D., Nguyen, H. L., & Zhang, H. R. (2023). Identification of negative transfers in multitask learning using surrogate models. TMLR. [paper](https://arxiv.org/pdf/2303.14582)
+- Li, D., Ju, H., Sharma, A., & Zhang, H. R. (2023). Boosting multitask learning on graphs through higher-order task affinities. KDD. [paper](https://arxiv.org/pdf/2306.14009)
+- Li, D., Sharma, A., & Zhang, H. R. (2024). Scalable multitask learning using gradient-based estimation of task affinity. KDD. [paper](https://arxiv.org/pdf/2409.06091)
+- Li, D., Zhang, Z., Wang, L., & Zhang, H. R. (2024). Scalable fine-tuning from multiple data sources: A first-order approximation approach. Findings of EMNLP. [paper](https://arxiv.org/pdf/2409.19458)
 - Cui, S., & Mitra, P. (2024). Automated multi-task learning for joint disease prediction on electronic health records. NeurIPS. [paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/e955bd39051d4d080826b2ffcf3a7fe2-Paper-Conference.pdf)
+- Zhang, Z., Zhang, Z., Li, D., Wang, L., Dy, J., & Zhang, H. R. (2025). Linear-time demonstration selection for in-context learning via gradient estimation. EMNLP. [paper](https://arxiv.org/pdf/2508.19999)
 - Guo, S., Chen, J., Hu, Z., Chen, Z., Yang, W., Lin, Y., Jiang, X., & Duan, L. (2025). Which tasks should be compressed together? A causal discovery approach for efficient multi-task representation compression. ICLR. [paper](https://openreview.net/attachment?id=x33vSZUg0A&name=pdf)
 - Ajirak, M., Bein, O., Bowen, E. R., Kanellopoulos, D., Falk, A., Gunning, F. M., Solomonov, N., & Grosenick, L. (2025). Learning to route: Per-sample adaptive routing for multimodal multitask prediction. NeurIPS. [paper](https://arxiv.org/pdf/2509.12227)
 - Ayman, A., Mukhopadhyay, A., & Laszka, A. (2026). Ensemble prediction of task affinity for efficient multi-task learning. ICLR. [paper](https://arxiv.org/pdf/2602.18591)
